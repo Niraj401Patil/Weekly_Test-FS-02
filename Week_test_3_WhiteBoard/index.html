@@ -34,11 +34,15 @@
             color: white;
             border: none;
             border-radius: 5px;
-            cursor: pointer;
+            cursor: default;
         }
 
         button:hover {
             background-color: #45a049;
+        }
+
+        .crosshair {
+            cursor: crosshair;
         }
 
     </style>
@@ -48,7 +52,7 @@
         <button id="deleteButton">Delete</button>
         <button id="undoButton">Undo</button>
     </div>
-    <canvas id="paintCanvas" ></canvas>
+    <canvas id="paintCanvas" class="crosshair"></canvas>
 
     <script>
         const canvas = document.getElementById("paintCanvas");
