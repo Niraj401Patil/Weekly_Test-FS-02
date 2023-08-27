@@ -13,7 +13,7 @@ A basic web-based paint application built using HTML, CSS, and JavaScript. This 
 
 ## Demo
 
-Check out the live demo: [Simple White Board App](https://niraj401patil.github.io/FS-02-M6/Week_Test_3_WhitBoard/)
+Check out the live demo: [Simple White Board App](https://niraj401patil.github.io/Weekly_Test-FS-02/Week_test_3_WhiteBoard/)
 
 ## Getting Started
 
